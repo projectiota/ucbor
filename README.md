@@ -9,4 +9,4 @@ make
 ```
 
 ## License
-[Apache-2.0](https://github.com/projectiota/iota-link-mqtt-client-python/blob/master/LICENSE)
+[Apache-2.0](https://github.com/projectiota/ucbor/blob/master/LICENSE)
