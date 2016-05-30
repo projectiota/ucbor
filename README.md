@@ -1,5 +1,5 @@
 ## Micro CBOR
-Pure C RFC 7049 Concise Binary Object Representation Specification Implementation for Embedded Devices.
+[RFC 7049 Concise Binary Object Representation](http://cbor.io/) specification implementation in pure C. Targets constrained embedded devices.
 
 ## Install
 ```bash
