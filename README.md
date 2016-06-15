@@ -1,6 +1,8 @@
 ## Micro CBOR
 [RFC 7049 Concise Binary Object Representation](http://cbor.io/) specification implementation in pure C. Targets constrained embedded devices.
 
+Protocol specification can be found [here](https://tools.ietf.org/html/rfc7049).
+
 ## Install
 ```bash
 # Clone the repo
